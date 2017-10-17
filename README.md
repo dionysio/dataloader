@@ -12,7 +12,7 @@ The open source version of dataloader is available from: https://github.com/forc
 1. Java 1.6+, available in the PATH
 
 2. DataLoader JAR file from Windows or built from the open source project. 
-(The current name/version of the jar file is: dataloader-30.0.0-uber.jar)
+(The current name/version of the jar file is: dataloader-30.0.0-uber.jar, tested with 40.0.0 as well.)
 
 ##Steps: 
 
